@@ -1,0 +1,22 @@
+/*font-family: 'PT Sans', sans-serif;*/
+	
+body{
+	font-family: 'PT Sans', sans-serif;
+	color: #898989;
+
+}
+/*header start*/
+header{
+	background-color: #fcdb00;
+	padding:15px 0;
+}
+.menubar{}
+.menubar ul li a{
+	/*font-family: 'PT Sans', sans-serif;*/
+	padding:0 35px !important;
+	font-size:22px;
+	font-weight:700; 
+	text-align: right;
+}
+
+/*header end*/
